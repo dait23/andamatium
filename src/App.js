@@ -213,7 +213,7 @@ class App extends Component {
           >
           <header id="header">
             <img alt="instant-search-logo" src="https://blog.spazee.id/wp-content/themes/spazee/images/logos/logo-nav.png" />
-            <SearchBox translations={{ placeholder: 'Search Space' }} />
+            <SearchBox translations={{ placeholder: 'Search' }} />
           </header>
           <main>
            <ClearAll />
